@@ -1,0 +1,1157 @@
+[
+  {
+    "id": 1,
+    "name": "Т1_Т2",
+    "description": "Classroom",
+    "keywords": "T1_T2, Т1Т2, T1T2",
+    "image": "images/Tfloor_T1T2.png"
+  },
+  {
+    "id": 2,
+    "name": "Т3",
+    "description": "Classroom",
+    "keywords": "T3",
+    "image": "images/Tfloor_T3.png"
+  },
+  {
+    "id": 3,
+    "name": "Т4",
+    "description": "Classroom",
+    "keywords": "T4",
+    "image": "images/Tfloor_T4.png"
+  },
+  {
+    "id": 4,
+    "name": "Т5",
+    "description": "Classroom",
+    "keywords": "T5",
+    "image": "images/Tfloor_T5.png"
+  },
+  {
+    "id": 5,
+    "name": "Т6",
+    "description": "Subdepartment of Linguistics and Professional Communication in Foreign Languages",
+    "keywords": "T6",
+    "image": "images/Tfloor_T6.png"
+  },
+  {
+    "id": 6,
+    "name": "Т7",
+    "description": "Classroom named after O. Skvortsov",
+    "keywords": "T7",
+    "image": "images/Tfloor_T7.png"
+  },
+  {
+    "id": 7,
+    "name": "Т8",
+    "description": "Classroom",
+    "keywords": "T8",
+    "image": "images/Tfloor_T8.png"
+  },
+  {
+    "id": 8,
+    "name": "Т9",
+    "description": "Classroom",
+    "keywords": "T9",
+    "image": "images/Tfloor_T9.png"
+  },
+  {
+    "id": 9,
+    "name": "Т10",
+    "description": "Classroom",
+    "keywords": "T10",
+    "image": "images/Tfloor_T10.png"
+  },
+  {
+    "id": 10,
+    "name": "Т11",
+    "description": "Classroom",
+    "keywords": "T11",
+    "image": "images/Tfloor_T11.png"
+  },
+  {
+    "id": 11,
+    "name": "Т12",
+    "description": "Classroom",
+    "keywords": "T12",
+    "image": "images/Tfloor_T12.png"
+  },
+  {
+    "id": 12,
+    "name": "Т13_14_16",
+    "description": "Classroom",
+    "keywords": "T13_14_16, Т14, Т16, T14, T16",
+    "image": "images/Tfloor_T13.png"
+  },
+  {
+    "id": 13,
+    "name": "Т15",
+    "description": "Classroom",
+    "keywords": "T15",
+    "image": "images/Tfloor_T15.png"
+  },
+  {
+    "id": 14,
+    "name": "Т17",
+    "description": "Room for storage and preventive maintenance of educational equipment",
+    "keywords": "T17",
+    "image": "images/Tfloor_T17.png"
+  },
+  {
+    "id": 15,
+    "name": "100",
+    "description": "Scientific Laboratory «Center For Population Research»",
+    "keywords": "",
+    "image": "images/1floor_100.png"
+  },
+  {
+    "id": 16,
+    "name": "101",
+    "description": "Computer classroom",
+    "keywords": "",
+    "image": "images/1floor_101.png"
+  },
+  {
+    "id": 17,
+    "name": "102",
+    "description": "Editorial and Publishing Department",
+    "keywords": "",
+    "image": "images/1floor_102.png"
+  },
+  {
+    "id": 18,
+    "name": "103",
+    "description": "Restoration workshop",
+    "keywords": "",
+    "image": "images/1floor_.103html"
+  },
+  {
+    "id": 19,
+    "name": "105",
+    "description": "Editor-in-Chief; Editors of the UrFU Publishing and Printing Center",
+    "keywords": "",
+    "image": "images/1floor_105.png"
+  },
+  {
+    "id": 20,
+    "name": "107",
+    "description": "Prepress Department",
+    "keywords": "",
+    "image": "images/1floor_107.png"
+  },
+  {
+    "id": 21,
+    "name": "108",
+    "description": "Commercial Department",
+    "keywords": "",
+    "image": "images/1floor_108.png"
+  },
+  {
+    "id": 22,
+    "name": "109",
+    "description": "Warehouse",
+    "keywords": "",
+    "image": "images/1floor_109.png"
+  },
+  {
+    "id": 23,
+    "name": "104,106",
+    "description": "Director and Deputy Director of the Publishing and Printing Center of UrFU",
+    "keywords": "",
+    "image": "images/1floor_104.png"
+  },
+  {
+    "id": 24,
+    "name": "110-118",
+    "description": "Production Department",
+    "keywords": "110, 111, 112, 113, 114, 115, 116, 117, 118",
+    "image": "images/1floor_110.png"
+  },
+  {
+    "id": 25,
+    "name": "Cafeteria",
+    "description": "",
+    "keywords": "Cafe, Caffè, Food",
+    "image": "images/1floor_cafeteria.png"
+  },
+  {
+    "id": 26,
+    "name": "Kafedra Coffee",
+    "description": "Coffee Shop",
+    "keywords": "Cafe, Caffè, Food, Coffee",
+    "image": "images/1floor_coffee.png"
+  },
+  {
+    "id": 27,
+    "name": "Cloakroom",
+    "description": "",
+    "keywords": "",
+    "image": "images/1floor_wcm.png"
+  },  
+  {
+    "id": 28,
+    "name": "Women's Toilet, 1st Floor",
+    "description": "",
+    "keywords": "",
+    "image": "images/1floor_cloakroom.png"
+  },
+  {
+    "id": 29,
+    "name": "Men's Toilet, 1st Floor",
+    "description": "",
+    "keywords": "",
+    "image": "images/1floor_wcw.png"
+  },
+  {
+    "id": 30,
+    "name": "262",
+    "description": "Korean Science and Culture Center named after the first Honorary Consul of the Republic of Korea in Yekaterinburg S. V. Tkhai",
+    "keywords": "Korean Center",
+    "image": "images/2floor_262.png"
+  },
+  {
+    "id": 31,
+    "name": "262а",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/2floor_262a.png"
+  },
+  {
+    "id": 32,
+    "name": "252",
+    "description": "Humany Studies Literature Department",
+    "keywords": "",
+    "image": "images/2floor_252.png"
+  },
+  {
+    "id": 33,
+    "name": "263",
+    "description": "Library",
+    "keywords": "",
+    "image": "images/2floor_263.png"
+  },
+  {
+    "id": 34,
+    "name": "264",
+    "description": "Self-study Room",
+    "keywords": "",
+    "image": "images/2floor_264.png"
+  },
+  {
+    "id": 35,
+    "name": "265",
+    "description": "Acquisitions department",
+    "keywords": "",
+    "image": "images/2floor_265.png"
+  },
+  {
+    "id": 36,
+    "name": "266",
+    "description": "Circulation desk; Humanitarian periodicals; Interlibrary loan",
+    "keywords": "",
+    "image": "images/2floor_266.png"
+  },
+  {
+    "id": 37,
+    "name": "267",
+    "description": "Department of Scientific Document Processing",
+    "keywords": "",
+    "image": "images/2floor_267.png"
+  },
+  {
+    "id": 38,
+    "name": "268",
+    "description": "Administration",
+    "keywords": "",
+    "image": "images/2floor_268.png"
+  },
+  {
+    "id": 39,
+    "name": "269",
+    "description": "Self-study Room",
+    "keywords": "",
+    "image": "images/2floor_269.png"
+  },
+  {
+    "id": 40,
+    "name": "1",
+    "description": "Demidov's Hall",
+    "keywords": "",
+    "image": "images/3floor_1.png"
+  },
+  {
+    "id": 41,
+    "name": "350",
+    "description": "Department of Economics and Law of the Institute for Retraining and Advanced Training; Center for the Development of Professional Competencies",
+    "keywords": "",
+    "image": "images/3floor_350.png"
+  },
+  {
+    "id": 42,
+    "name": "351",
+    "description": "Clasroom named after I. Loifman",
+    "keywords": "",
+    "image": "images/3floor_351.png"
+  },
+  {
+    "id": 43,
+    "name": "353",
+    "description": "Classroom named after V. Kim",
+    "keywords": "",
+    "image": "images/3floor_353.png"
+  },
+  {
+    "id": 44,
+    "name": "355",
+    "description": "Department of Cultural Studies and Philosophy of the Institute for Retraining and Advanced Training; Project Management Center",
+    "keywords": "",
+    "image": "images/3floor_355.png"
+  },
+  {
+    "id": 45,
+    "name": "356",
+    "description": "Library; Rare Books Department",
+    "keywords": "Library of literature in foreign languages",
+    "image": "images/3floor_356.png"
+  },
+  {
+    "id": 46,
+    "name": "357",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_357.png"
+  },
+  {
+    "id": 47,
+    "name": "358",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_358.png"
+  },
+  {
+    "id": 48,
+    "name": "359",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_359.png"
+  },
+  {
+    "id": 49,
+    "name": "359а",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_359a.png"
+  },
+  {
+    "id": 50,
+    "name": "360",
+    "description": "Resource Center",
+    "keywords": "",
+    "image": "images/3floor_360.png"
+  },
+  {
+    "id": 51,
+    "name": "361",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_361.png"
+  },
+  {
+    "id": 52,
+    "name": "362",
+    "description": "Center for Foreign Languages of the Institute for Retraining and Advanced Training; Faculty of the Department of Linguistics",
+    "keywords": "",
+    "image": "images/3floor_362.png"
+  },
+  {
+    "id": 53,
+    "name": "362а",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_362a.png"
+  },
+  {
+    "id": 54,
+    "name": "363",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_363.png"
+  },
+  {
+    "id": 55,
+    "name": "364",
+    "description": "Center for Practical Psychology and Psychoanalysis",
+    "keywords": "",
+    "image": "images/3floor_364.png"
+  },
+  {
+    "id": 56,
+    "name": "364а",
+    "description": "Center for Iranian Studies and Persian Language",
+    "keywords": "",
+    "image": "images/3floor_364a.png"
+  },
+  {
+    "id": 57,
+    "name": "365",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_365.png"
+  },
+  {
+    "id": 58,
+    "name": "366",
+    "description": "Directorate of the Institute for Retraining and Advanced Training",
+    "keywords": "",
+    "image": "images/3floor_366.png"
+  },
+  {
+    "id": 59,
+    "name": "367",
+    "description": "Subdepartment of Oriental Studies; Center for Iranian Studies; Center for Japanese Studies; Center for Israeli Studies",
+    "keywords": "Old Office of the Subdeparment of Oriental Studies",
+    "image": "images/3floor_367.png"
+  },
+  {
+    "id": 60,
+    "name": "368",
+    "description": "Teaching Department of the Institute for Retraining and Advanced Training",
+    "keywords": "",
+    "image": "images/3floor_368.png"
+  },
+  {
+    "id": 61,
+    "name": "369",
+    "description": "Computer Classroom",
+    "keywords": "",
+    "image": "images/3floor_369.png"
+  },
+  {
+    "id": 62,
+    "name": "369а",
+    "description": "Computer Classroom",
+    "keywords": "",
+    "image": "images/3floor_369a.png"
+  },
+  {
+    "id": 63,
+    "name": "369б",
+    "description": "Workplace Service Department",
+    "keywords": "",
+    "image": "images/3floor_369b.png"
+  },
+  {
+    "id": 65,
+    "name": "374",
+    "description": "Subdepartment of Psychology of the Institute for Retraining and Advanced Training; Center for Pedagogical Education",
+    "keywords": "",
+    "image": "images/3floor_374.png"
+  },
+  {
+    "id": 66,
+    "name": "376",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_376.png"
+  },
+  {
+    "id": 67,
+    "name": "380",
+    "description": "Subdepartment of Politology, Sociology and Mass Communication of the Institute for Retraining and Advanced Training; Center for Business and Political Communications",
+    "keywords": "",
+    "image": "images/3floor_380.png"
+  },
+  {
+    "id": 68,
+    "name": "382",
+    "description": "Classroom named after I. Chempalov",
+    "keywords": "",
+    "image": "images/3floor_382.png"
+  },
+  {
+    "id": 69,
+    "name": "384",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_384.png"
+  },
+  {
+    "id": 70,
+    "name": "385",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_385.png"
+  },
+  {
+    "id": 71,
+    "name": "386, 387, 388",
+    "description": "Subdepartment of Theory and History of International Relations",
+    "keywords": "",
+    "image": "images/3floor_386.png"
+  },
+  {
+    "id": 72,
+    "name": "390",
+    "description": "Subdepartment of European Studies; Subdepartment of Foreign Regional Studies",
+    "keywords": "",
+    "image": "images/3floor_390.png"
+  },
+  {
+    "id": 73,
+    "name": "390а",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_390a.png"
+  },
+  {
+    "id": 74,
+    "name": "391",
+    "description": "Subdepartment of Oriental Studies",
+    "keywords": "New Office of the Subdeparment of Oriental Studies",
+    "image": "images/3floor_391.png"
+  },
+  {
+    "id": 75,
+    "name": "392",
+    "description": "Department of International Relations",
+    "keywords": "Faculty of Oriental Studies, Faculty of International Relations",
+    "image": "images/3floor_392.png"
+  },
+  {
+    "id": 76,
+    "name": "393",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_393.png"
+  },
+  {
+    "id": 77,
+    "name": "394",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_394.png"
+  },
+  {
+    "id": 78,
+    "name": "395",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_395.png"
+  },
+  {
+    "id": 79,
+    "name": "396",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/3floor_396.png"
+  },
+  {
+    "id": 80,
+    "name": "397",
+    "description": "Department of Social and Educational Work",
+    "keywords": "",
+    "image": "images/3floor_397.png"
+  },
+  {
+    "id": 81,
+    "name": "399",
+    "description": "Department of Organization of Educational Activities of Master's and Postgraduate Studies",
+    "keywords": "",
+    "image": "images/3floor_399.png"
+  },
+  {
+    "id": 82,
+    "name": "Women's Toilet, 3rd Floor",
+    "description": "",
+    "keywords": "",
+    "image": "images/3floor_wcw.png"
+  },
+  {
+    "id": 83,
+    "name": "Men's Toilet, 3rd Floor",
+    "description": "",
+    "keywords": "",
+    "image": "images/3floor_wcm.png"
+  },
+  {
+    "id": 84,
+    "name": "451",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/4floor_451.png"
+  },
+  {
+    "id": 85,
+    "name": "453",
+    "description": "Correspondence Department; Laboratory of Natural Science Methods in Humanitarian Research",
+    "keywords": "",
+    "image": "images/4floor_453.png"
+  },
+  {
+    "id": 86,
+    "name": "455",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/4floor_455.png"
+  },
+  {
+    "id": 87,
+    "name": "457",
+    "description": "Clasroom named after V. Adamov",
+    "keywords": "",
+    "image": "images/4floor_457.png"
+  },
+  {
+    "id": 88,
+    "name": "459",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/4floor_459.png"
+  },
+  {
+    "id": 89,
+    "name": "461",
+    "description": "Clasroom named after M. Syuzyumov",
+    "keywords": "",
+    "image": "images/4floor_461.png"
+  },
+  {
+    "id": 90,
+    "name": "462",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/4floor_462.png"
+  },
+  {
+    "id": 91,
+    "name": "463",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/4floor_463.png"
+  },
+  {
+    "id": 92,
+    "name": "463а",
+    "description": "Classroom",
+    "keywords": "463a",
+    "image": "images/4floor_463a.png"
+  },
+  {
+    "id": 93,
+    "name": "464",
+    "description": "Faculty of the Department of History",
+    "keywords": "",
+    "image": "images/4floor_464.png"
+  },
+  {
+    "id": 94,
+    "name": "465",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/4floor_465.png"
+  },
+  {
+    "id": 95,
+    "name": "467",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/4floor_467.png"
+  },
+  {
+    "id": 96,
+    "name": "468",
+    "description": "Subdepartment of Ancient and Medieval History",
+    "keywords": "",
+    "image": "images/4floor_468.png"
+  },
+  {
+    "id": 97,
+    "name": "469",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/4floor_469.png"
+  },
+  {
+    "id": 98,
+    "name": "470",
+    "description": "Subdepartment of Modern and Contemporary History",
+    "keywords": "",
+    "image": "images/4floor_470.png"
+  },
+  {
+    "id": 99,
+    "name": "471, 473",
+    "description": "Subdepartment of Archival Studies and History of Public Administration",
+    "keywords": "",
+    "image": "images/4floor_471.png"
+  },
+  {
+    "id": 100,
+    "name": "472",
+    "description": "Subdepartment of Archeology and Ethnology",
+    "keywords": "",
+    "image": "images/4floor_472.png"
+  },
+  {
+    "id": 101,
+    "name": "474",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/4floor_474.png"
+  },
+  {
+    "id": 102,
+    "name": "476",
+    "description": "Self-study Room",
+    "keywords": "",
+    "image": "images/4floor_476.png"
+  },
+  {
+    "id": 103,
+    "name": "478",
+    "description": "Laboratory of Archaeographic Research",
+    "keywords": "",
+    "image": "images/4floor_478.png"
+  },
+  {
+    "id": 104,
+    "name": "480",
+    "description": "Subdepartment of Russian History",
+    "keywords": "",
+    "image": "images/4floor_480.png"
+  },
+  {
+    "id": 105,
+    "name": "482",
+    "description": "Department of Documentation and Information Management; International Center for Demographic Research",
+    "keywords": "",
+    "image": "images/4floor_482.png"
+  },
+  {
+    "id": 106,
+    "name": "484",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/4floor_484.png"
+  },
+  {
+    "id": 107,
+    "name": "486",
+    "description": "Department of Social and Cultural Services and Tourism",
+    "keywords": "",
+    "image": "images/4floor_486.png"
+  },
+  {
+    "id": 108,
+    "name": "460, 450, 452, 454, 456, 458, 458а",
+    "description": "Auditorium of History; Study Hall; Computer Classroom",
+    "keywords": "458a",
+    "image": "images/4floor_460.png"
+  },
+  {
+    "id": 109,
+    "name": "Women's Toilet, 4th Floor",
+    "description": "",
+    "keywords": "",
+    "image": "images/4floor_wcw.png"
+  },
+  {
+    "id": 110,
+    "name": "Men's Toilet, 4th Floor",
+    "description": "",
+    "keywords": "",
+    "image": "images/4floor_wcm.png"
+  },
+  {
+    "id": 111,
+    "name": "501",
+    "description": "Management of information and telecommunication infrastructure",
+    "keywords": "",
+    "image": "images/5floor_501.png"
+  },
+  {
+    "id": 112,
+    "name": "505",
+    "description": "Management of information and telecommunication infrastructure",
+    "keywords": "",
+    "image": "images/5floor_505.png"
+  },
+  {
+    "id": 113,
+    "name": "507",
+    "description": "Multimedia Classroom",
+    "keywords": "",
+    "image": "images/5floor_507.png"
+  },
+  {
+    "id": 114,
+    "name": "509",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/5floor_509.png"
+  },
+  {
+    "id": 115,
+    "name": "511",
+    "description": "Computer Classroom; Self-study Room",
+    "keywords": "",
+    "image": "images/5floor_.511html"
+  },
+  {
+    "id": 116,
+    "name": "512",
+    "description": "Management of information and telecommunication infrastructure",
+    "keywords": "",
+    "image": "images/5floor_512.png"
+  },
+  {
+    "id": 117,
+    "name": "513",
+    "description": "Auditorium named after Corresponding Member of the Academy of Sciences Professor V. Ivanov",
+    "keywords": "",
+    "image": "images/5floor_513.png"
+  },
+  {
+    "id": 118,
+    "name": "513а",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/5floor_513a.png"
+  },
+  {
+    "id": 119,
+    "name": "514",
+    "description": "Computer Classroom",
+    "keywords": "",
+    "image": "images/5floor_514.png"
+  },
+  {
+    "id": 120,
+    "name": "515",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/5floor_515.png"
+  },
+  {
+    "id": 121,
+    "name": "515а",
+    "description": "Operational Support Department",
+    "keywords": "",
+    "image": "images/5floor_515a.png"
+  },
+  {
+    "id": 122,
+    "name": "517",
+    "description": "Classroom; Room for storage and preventive maintenance of equipment",
+    "keywords": "",
+    "image": "images/5floor_517.png"
+  },
+  {
+    "id": 123,
+    "name": "522",
+    "description": "Management of Corporate IT Training and Innovation",
+    "keywords": "",
+    "image": "images/5floor_522.png"
+  },
+  {
+    "id": 124,
+    "name": "524",
+    "description": "Pearson VUE Testing Center",
+    "keywords": "",
+    "image": "images/5floor_524.png"
+  },
+  {
+    "id": 125,
+    "name": "524",
+    "description": "Management of Corporate IT Training and Innovation",
+    "keywords": "",
+    "image": "images/5floor_524.png"
+  },
+  {
+    "id": 126,
+    "name": "526",
+    "description": "Computer Classroom",
+    "keywords": "",
+    "image": "images/5floor_526.png"
+  },
+  {
+    "id": 127,
+    "name": "528",
+    "description": "Computer Classroom",
+    "keywords": "",
+    "image": "images/5floor_528.png"
+  },
+  {
+    "id": 128,
+    "name": "530",
+    "description": "Department of Technical Training Support",
+    "keywords": "",
+    "image": "images/5floor_530.png"
+  },
+  {
+    "id": 129,
+    "name": "532",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/5floor_532.png"
+  },
+  {
+    "id": 130,
+    "name": "534",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/5floor_534.png"
+  },
+  {
+    "id": 131,
+    "name": "538",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/5floor_538.png"
+  },
+  {
+    "id": 132,
+    "name": "540",
+    "description": "Subdepartment of Foreign Languages and Educational Technologies",
+    "keywords": "",
+    "image": "images/5floor_540.png"
+  },
+  {
+    "id": 133,
+    "name": "542",
+    "description": "Deans' Office of the Subdepartment of Foreign Languages and Educational Technologies",
+    "keywords": "",
+    "image": "images/5floor_542.png"
+  },
+  {
+    "id": 134,
+    "name": "501, 502, 503, 504, 505, 506, 507, 508, 509",
+    "description": "Ural Mathematical Center of UrFU; Laboratory of Editorial Archeography",
+    "keywords": "",
+    "image": "images/5floor_501.png"
+  },
+  {
+    "id": 135,
+    "name": "Women's Toilet, 5th Floor",
+    "description": "",
+    "keywords": "",
+    "image": "images/5floor_wcw.png"
+  },
+  {
+    "id": 136,
+    "name": "Men's Toilet, 5th Floor",
+    "description": "",
+    "keywords": "",
+    "image": "images/5floor_wcm.png"
+  },
+  {
+    "id": 137,
+    "name": "601",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_601.png"
+  },
+  {
+    "id": 138,
+    "name": "604",
+    "description": "Department of Mathematics, Mechanics and Computer Science; Office of Academic Affairs of the Department of Mathematics, Mechanics and Computer Science",
+    "keywords": "Faculty of the Department of Mathematics, Mechanics and Computer Science",
+    "image": "images/6floor_604.png"
+  },
+  {
+    "id": 139,
+    "name": "605",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_605.png"
+  },
+  {
+    "id": 140,
+    "name": "607",
+    "description": "Subdepartment of Algebra and Discrete Mathematics",
+    "keywords": "",
+    "image": "images/6floor_607.png"
+  },
+  {
+    "id": 141,
+    "name": "608",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_608.png"
+  },
+  {
+    "id": 142,
+    "name": "609",
+    "description": "Scientific supervisor of the Subdepartment of Algebra and Discrete Mathematics, academician of the European Academy of Sciences L. N. Shevrin",
+    "keywords": "",
+    "image": "images/6floor_609.png"
+  },
+  {
+    "id": 143,
+    "name": "611",
+    "description": "Clasroom named after P. Kontorovich",
+    "keywords": "",
+    "image": "images/6floor_611.png"
+  },
+  {
+    "id": 144,
+    "name": "612",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_612.png"
+  },
+  {
+    "id": 145,
+    "name": "613",
+    "description": "Subdepartment of Computational Mathematics",
+    "keywords": "",
+    "image": "images/6floor_613.png"
+  },
+  {
+    "id": 146,
+    "name": "614",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_614.png"
+  },
+  {
+    "id": 147,
+    "name": "615",
+    "description": "Head of the Subdepartment of Computational Mathematics",
+    "keywords": "",
+    "image": "images/6floor_615.png"
+  },
+  {
+    "id": 148,
+    "name": "617",
+    "description": "Faculty of Physical Methods and Quality Control Instruments",
+    "keywords": "",
+    "image": "images/6floor_617.png"
+  },
+  {
+    "id": 149,
+    "name": "618",
+    "description": "Subdepartment of Theoretical Mechanics",
+    "keywords": "",
+    "image": "images/6floor_618.png"
+  },
+  {
+    "id": 150,
+    "name": "619",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_619.png"
+  },
+  {
+    "id": 151,
+    "name": "620",
+    "description": "Head of the Subdepartment of Theoretical Mechanics",
+    "keywords": "",
+    "image": "images/6floor_620.png"
+  },
+  {
+    "id": 152,
+    "name": "621",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_621.png"
+  },
+  {
+    "id": 153,
+    "name": "622",
+    "description": "Clasroom named after Professor S. Shimanov",
+    "keywords": "",
+    "image": "images/6floor_622.png"
+  },
+  {
+    "id": 154,
+    "name": "622а",
+    "description": "Classroom",
+    "keywords": "622a",
+    "image": "images/6floor_622a.png"
+  },
+  {
+    "id": 155,
+    "name": "623",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_623.png"
+  },
+  {
+    "id": 156,
+    "name": "624",
+    "description": "Subdepartment of Informatics and Process Management",
+    "keywords": "",
+    "image": "images/6floor_624.png"
+  },
+  {
+    "id": 157,
+    "name": "625",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_625.png"
+  },
+  {
+    "id": 158,
+    "name": "626",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_626.png"
+  },
+  {
+    "id": 159,
+    "name": "628",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_628.png"
+  },
+  {
+    "id": 160,
+    "name": "631",
+    "description": "Regional Educational and Scientific Center",
+    "keywords": "",
+    "image": "images/6floor_631.png"
+  },
+  {
+    "id": 161,
+    "name": "632",
+    "description": "Classroom named after Academician N. Krasovsky",
+    "keywords": "",
+    "image": "images/6floor_632.png"
+  },
+  {
+    "id": 162,
+    "name": "632а",
+    "description": "Classroom",
+    "keywords": "",
+    "image": "images/6floor_632a.png"
+  },
+  {
+    "id": 163,
+    "name": "636",
+    "description": "Laboratory of «Mathematical Modeling in Physiology and Medicine Using Supercomputer Technologies»",
+    "keywords": "",
+    "image": "images/6floor_636.png"
+  },
+  {
+    "id": 164,
+    "name": "638",
+    "description": "Problem Research Laboratory of Applied Analysis",
+    "keywords": "",
+    "image": "images/6floor_638.png"
+  },
+  {
+    "id": 165,
+    "name": "640",
+    "description": "Subdepartment of Mathematical Economics; Head of the Subdepartment of Mathematical Economics",
+    "keywords": "",
+    "image": "images/6floor_640.png"
+  },
+  {
+    "id": 166,
+    "name": "Women's Toilet, 6th Floor",
+    "description": "",
+    "keywords": "",
+    "image": "images/6floor_wcw.png"
+  }
+]

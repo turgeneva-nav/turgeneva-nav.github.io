@@ -1,0 +1,1171 @@
+[
+  {
+    "id": 1,
+    "name": "Т1_Т2",
+    "description": "教室",
+    "keywords": "T1_T2, Т1Т2, T1T2",
+    "image": "images/Tfloor_T1T2.png"
+  },
+  {
+    "id": 2,
+    "name": "Т3",
+    "description": "教室",
+    "keywords": "T3",
+    "image": "images/Tfloor_T3.png"
+  },
+  {
+    "id": 3,
+    "name": "Т4",
+    "description": "教室",
+    "keywords": "T4",
+    "image": "images/Tfloor_T4.png"
+  },
+  {
+    "id": 4,
+    "name": "Т5",
+    "description": "教室",
+    "keywords": "T5",
+    "image": "images/Tfloor_T5.png"
+  },
+  {
+    "id": 5,
+    "name": "Т6",
+    "description": "外语语言学与专业交流系",
+    "keywords": "T6",
+    "image": "images/Tfloor_T6.png"
+  },
+  {
+    "id": 6,
+    "name": "Т7",
+    "description": "斯克沃尔佐夫教室",
+    "keywords": "T7",
+    "image": "images/Tfloor_T7.png"
+  },
+  {
+    "id": 7,
+    "name": "Т8",
+    "description": "教室",
+    "keywords": "T8",
+    "image": "images/Tfloor_T8.png"
+  },
+  {
+    "id": 8,
+    "name": "Т9",
+    "description": "教室",
+    "keywords": "T9",
+    "image": "images/Tfloor_T9.png"
+  },
+  {
+    "id": 9,
+    "name": "Т10",
+    "description": "教室",
+    "keywords": "T10",
+    "image": "images/Tfloor_T10.png"
+  },
+  {
+    "id": 10,
+    "name": "Т11",
+    "description": "教室",
+    "keywords": "T11",
+    "image": "images/Tfloor_T11.png"
+  },
+  {
+    "id": 11,
+    "name": "Т12",
+    "description": "教室",
+    "keywords": "T12",
+    "image": "images/Tfloor_T12.png"
+  },
+  {
+    "id": 12,
+    "name": "Т13_14_16",
+    "description": "教室",
+    "keywords": "T13_14_16, Т14, Т16, T14, T16",
+    "image": "images/Tfloor_T13.png"
+  },
+  {
+    "id": 13,
+    "name": "Т15",
+    "description": "教室",
+    "keywords": "T15",
+    "image": "images/Tfloor_T15.png"
+  },
+  {
+    "id": 14,
+    "name": "Т17",
+    "description": "教育设备存放和维护室",
+    "keywords": "T17",
+    "image": "images/Tfloor_T17.png"
+  },
+  {
+    "id": 15,
+    "name": "100",
+    "description": "科学实验室“人口研究中心”",
+    "keywords": "",
+    "image": "images/1floor_100.png"
+  },
+  {
+    "id": 16,
+    "name": "101",
+    "description": "计算机教室",
+    "keywords": "",
+    "image": "images/1floor_101.png"
+  },
+  {
+    "id": 17,
+    "name": "102",
+    "description": "编辑出版部",
+    "keywords": "",
+    "image": "images/1floor_102.png"
+  },
+  {
+    "id": 18,
+    "name": "103",
+    "description": "修复工坊",
+    "keywords": "",
+    "image": "images/1floor_.103html"
+  },
+  {
+    "id": 19,
+    "name": "105",
+    "description": "主编; 乌拉尔联邦大学出版印刷中心编辑",
+    "keywords": "",
+    "image": "images/1floor_105.png"
+  },
+  {
+    "id": 20,
+    "name": "107",
+    "description": "印前部门",
+    "keywords": "印前部门",
+    "image": "images/1floor_107.png"
+  },
+  {
+    "id": 21,
+    "name": "108",
+    "description": "商务科",
+    "keywords": "",
+    "image": "images/1floor_108.png"
+  },
+  {
+    "id": 22,
+    "name": "109",
+    "description": "仓库",
+    "keywords": "",
+    "image": "images/1floor_109.png"
+  },
+  {
+    "id": 23,
+    "name": "104,106",
+    "description": "乌拉尔联邦大学出版印刷中心主任和副主任",
+    "keywords": "",
+    "image": "images/1floor_104.png"
+  },
+  {
+    "id": 24,
+    "name": "110-118",
+    "description": "生产部",
+    "keywords": "",
+    "image": "images/1floor_110.png"
+  },
+  {
+    "id": 25,
+    "name": "食堂",
+    "description": "饭店，饭馆，餐厅，食堂，饭菜，饮食",
+    "keywords": "Кафе, Еда",
+    "image": "images/1floor_cafeteria.png"
+  },
+  {
+    "id": 26,
+    "name": "Kafedra Coffee",
+    "description": "咖啡厅",
+    "keywords": "咖啡厅，咖啡馆，咖啡，饭菜，饮食",
+    "image": "images/1floor_coffee.png"
+  },
+  {
+    "id": 27,
+    "name": "存衣室",
+    "description": "",
+    "keywords": "",
+    "image": "images/1floor_cloakroom.png"
+  },
+  {
+    "id": 28,
+    "name": "女生的洗手间, 一楼",
+    "description": "",
+    "keywords": "",
+    "image": "images/1floor_wcw.png"
+  },
+  {
+    "id": 29,
+    "name": "男生的洗手间, 一楼",
+    "description": "",
+    "keywords": "",
+    "image": "images/1floor_wcm.png"
+  },
+  {
+    "id": 30,
+    "name": "262",
+    "description": "以大韩民国首任驻叶卡捷琳堡名誉领事S. V. Tkhai命名的韩国科学文化中心",
+    "keywords": "韩语教室",
+    "image": "images/2floor_262.png"
+  },
+  {
+    "id": 31,
+    "name": "262а",
+    "description": "教室",
+    "keywords": "262a",
+    "image": "images/2floor_262a.png"
+  },
+  {
+    "id": 32,
+    "name": "252",
+    "description": "图书馆. 订阅人文文学",
+    "keywords": "",
+    "image": "images/2floor_252.png"
+  },
+  {
+    "id": 33,
+    "name": "263",
+    "description": "阅览室; 目录大厅",
+    "keywords": "",
+    "image": "images/2floor_263.png"
+  },
+  {
+    "id": 34,
+    "name": "264",
+    "description": "自学教室",
+    "keywords": "",
+    "image": "images/2floor_264.png"
+  },
+  {
+    "id": 35,
+    "name": "265",
+    "description": "信息资源获取与会计部门",
+    "keywords": "",
+    "image": "images/2floor_265.png"
+  },
+  {
+    "id": 36,
+    "name": "266",
+    "description": "订阅人道主义期刊; 馆际互借和文献传递",
+    "keywords": "",
+    "image": "images/2floor_266.png"
+  },
+  {
+    "id": 37,
+    "name": "267",
+    "description": "科学文件处理部",
+    "keywords": "",
+    "image": "images/2floor_267.png"
+  },
+  {
+    "id": 38,
+    "name": "268",
+    "description": "管理人员",
+    "keywords": "",
+    "image": "images/2floor_268.png"
+  },
+  {
+    "id": 39,
+    "name": "269",
+    "description": "自学教室",
+    "keywords": "",
+    "image": "images/2floor_269.png"
+  },
+  {
+    "id": 40,
+    "name": "1",
+    "description": "杰米多夫大厅",
+    "keywords": "",
+    "image": "images/3floor_1.png"
+  },
+  {
+    "id": 41,
+    "name": "350",
+    "description": "经济与法律系 人员再培训研究所; 专业能力发展中心",
+    "keywords": "",
+    "image": "images/3floor_350.png"
+  },
+  {
+    "id": 42,
+    "name": "351",
+    "description": "洛伊夫曼教室",
+    "keywords": "",
+    "image": "images/3floor_351.png"
+  },
+  {
+    "id": 43,
+    "name": "353",
+    "description": "金教室",
+    "keywords": "",
+    "image": "images/3floor_353.png"
+  },
+  {
+    "id": 44,
+    "name": "355",
+    "description": "文化研究与哲学系 人员再培训研究所; 项目管理中心",
+    "keywords": "",
+    "image": "images/3floor_355.png"
+  },
+  {
+    "id": 45,
+    "name": "356",
+    "description": "图书馆 外国文学订阅; 珍本书部",
+    "keywords": "外语文学图书馆",
+    "image": "images/3floor_356.png"
+  },
+  {
+    "id": 46,
+    "name": "357",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_357.png"
+  },
+  {
+    "id": 47,
+    "name": "358",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_358.png"
+  },
+  {
+    "id": 48,
+    "name": "359",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_359.png"
+  },
+  {
+    "id": 49,
+    "name": "359а",
+    "description": "教室",
+    "keywords": "359a, 359-а, 359-a",
+    "image": "images/3floor_359a.png"
+  },
+  {
+    "id": 50,
+    "name": "360",
+    "description": "教学资源中心",
+    "keywords": "",
+    "image": "images/3floor_360.png"
+  },
+  {
+    "id": 51,
+    "name": "361",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_361.png"
+  },
+  {
+    "id": 52,
+    "name": "362",
+    "description": "外语学中心 人员再培训研究所; 语言学办公室",
+    "keywords": "",
+    "image": "images/3floor_362.png"
+  },
+  {
+    "id": 53,
+    "name": "362а",
+    "description": "教室",
+    "keywords": "362a, 362-а, 362-a",
+    "image": "images/3floor_362a.png"
+  },
+  {
+    "id": 54,
+    "name": "363",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_363.png"
+  },
+  {
+    "id": 55,
+    "name": "364",
+    "description": "实用心理学与精神分析中心",
+    "keywords": "",
+    "image": "images/3floor_364.png"
+  },
+  {
+    "id": 56,
+    "name": "364а",
+    "description": "伊朗研究与波斯语中心",
+    "keywords": "364a, 364-а, 364-a",
+    "image": "images/3floor_364a.png"
+  },
+  {
+    "id": 57,
+    "name": "365",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_365.png"
+  },
+  {
+    "id": 58,
+    "name": "366",
+    "description": "人员再培训研究所管理处",
+    "keywords": "",
+    "image": "images/3floor_366.png"
+  },
+  {
+    "id": 59,
+    "name": "367",
+    "description": "东方学系; 伊朗研究中心; 日本研究中心；以色列研究中心",
+    "keywords": "以前的东方学系",
+    "image": "images/3floor_367.png"
+  },
+  {
+    "id": 60,
+    "name": "368",
+    "description": "人员再培训研究所教室",
+    "keywords": "",
+    "image": "images/3floor_368.png"
+  },
+  {
+    "id": 61,
+    "name": "369",
+    "description": "计算机教室",
+    "keywords": "",
+    "image": "images/3floor_369.png"
+  },
+  {
+    "id": 62,
+    "name": "369а",
+    "description": "计算机教室",
+    "keywords": "369a, 369-а, 369-a",
+    "image": "images/3floor_369a.png"
+  },
+  {
+    "id": 63,
+    "name": "369в",
+    "description": "工作场所服务部",
+    "keywords": "369б, 369b, 369-б, 369-b, 369-в, 369v, 369-v",
+    "image": "images/3floor_369b.png"
+  },
+  {
+    "id": 64,
+    "name": "370",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_370.png"
+  },
+  {
+    "id": 65,
+    "name": "374",
+    "description": "心理学系 人员再培训研究所; 教育学中心",
+    "keywords": "",
+    "image": "images/3floor_374.png"
+  },
+  {
+    "id": 66,
+    "name": "376",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_376.png"
+  },
+  {
+    "id": 67,
+    "name": "380",
+    "description": "政治学、社会学和大众传播学系 人员再培训研究所; 商业与政治传播中心",
+    "keywords": "",
+    "image": "images/3floor_380.png"
+  },
+  {
+    "id": 68,
+    "name": "382",
+    "description": "切姆帕洛夫教室",
+    "keywords": "",
+    "image": "images/3floor_382.png"
+  },
+  {
+    "id": 69,
+    "name": "384",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_384.png"
+  },
+  {
+    "id": 70,
+    "name": "385",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_385.png"
+  },
+  {
+    "id": 71,
+    "name": "386, 387, 388",
+    "description": "国际关系理论与历史系",
+    "keywords": "",
+    "image": "images/3floor_386.png"
+  },
+  {
+    "id": 72,
+    "name": "390",
+    "description": "欧洲研究系; 外国区域研究系",
+    "keywords": "",
+    "image": "images/3floor_390.png"
+  },
+  {
+    "id": 73,
+    "name": "390а",
+    "description": "教室",
+    "keywords": "390a, 390-а, 390-a",
+    "image": "images/3floor_390a.png"
+  },
+  {
+    "id": 74,
+    "name": "391",
+    "description": "东方学系",
+    "keywords": "新东方学系",
+    "image": "images/3floor_391.png"
+  },
+  {
+    "id": 75,
+    "name": "392",
+    "description": "国际关系系",
+    "keywords": "东方学办公室, 国际关系办公室",
+    "image": "images/3floor_392.png"
+  },
+  {
+    "id": 76,
+    "name": "393",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/3floor_393.png"
+  },
+  {
+    "id": 77,
+    "name": "394, 395, 396, 397",
+    "description": "社会与教育工作部",
+    "keywords": "",
+    "image": "images/3floor_394.png"
+  },
+  {
+    "id": 78,
+    "name": "399",
+    "description": "硕士和研究生办学组织部",
+    "keywords": "",
+    "image": "images/3floor_399.png"
+  },
+  {
+    "id": 79,
+    "name": "女生的洗手间, 三楼",
+    "description": "",
+    "keywords": "",
+    "image": "images/3floor_wcw.png"
+  },
+  {
+    "id": 80,
+    "name": "男生的洗手间, 三楼",
+    "description": "",
+    "keywords": "",
+    "image": "images/3floor_wcm.png"
+  },
+  {
+    "id": 81,
+    "name": "451",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/4floor_451.png"
+  },
+  {
+    "id": 82,
+    "name": "453",
+    "description": "函授部门; 人道主义研究中的自然科学方法实验室",
+    "keywords": "",
+    "image": "images/4floor_453.png"
+  },
+  {
+    "id": 83,
+    "name": "455",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/4floor_455.png"
+  },
+  {
+    "id": 84,
+    "name": "457",
+    "description": "阿达莫夫教室",
+    "keywords": "",
+    "image": "images/4floor_457.png"
+  },
+  {
+    "id": 85,
+    "name": "459",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/4floor_459.png"
+  },
+  {
+    "id": 86,
+    "name": "461",
+    "description": "休久莫夫教室",
+    "keywords": "",
+    "image": "images/4floor_461.png"
+  },
+  {
+    "id": 87,
+    "name": "462",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/4floor_462.png"
+  },
+  {
+    "id": 88,
+    "name": "463",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/4floor_463.png"
+  },
+  {
+    "id": 89,
+    "name": "463а",
+    "description": "教室",
+    "keywords": "463a, 463-а, 463-a",
+    "image": "images/4floor_463a.png"
+  },
+  {
+    "id": 90,
+    "name": "464",
+    "description": "历史系办公室",
+    "keywords": "",
+    "image": "images/4floor_464.png"
+  },
+  {
+    "id": 91,
+    "name": "465",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/4floor_465.png"
+  },
+  {
+    "id": 92,
+    "name": "467",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/4floor_467.png"
+  },
+  {
+    "id": 93,
+    "name": "468",
+    "description": "古代和中世纪历史系",
+    "keywords": "",
+    "image": "images/4floor_468.png"
+  },
+  {
+    "id": 94,
+    "name": "469",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/4floor_469.png"
+  },
+  {
+    "id": 95,
+    "name": "470",
+    "description": "现代史系",
+    "keywords": "",
+    "image": "images/4floor_470.png"
+  },
+  {
+    "id": 96,
+    "name": "471, 473",
+    "description": "档案学与公共行政史系",
+    "keywords": "",
+    "image": "images/4floor_471.png"
+  },
+  {
+    "id": 97,
+    "name": "472",
+    "description": "考古学与民族学系",
+    "keywords": "",
+    "image": "images/4floor_472.png"
+  },
+  {
+    "id": 98,
+    "name": "474",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/4floor_474.png"
+  },
+  {
+    "id": 99,
+    "name": "476",
+    "description": "自学教室",
+    "keywords": "",
+    "image": "images/4floor_476.png"
+  },
+  {
+    "id": 100,
+    "name": "478",
+    "description": "考古研究实验室",
+    "keywords": "",
+    "image": "images/4floor_478.png"
+  },
+  {
+    "id": 101,
+    "name": "480",
+    "description": "俄罗斯历史系",
+    "keywords": "",
+    "image": "images/4floor_480.png"
+  },
+  {
+    "id": 102,
+    "name": "482",
+    "description": "管理部文件和信息支持部门; 国际人口研究中心",
+    "keywords": "",
+    "image": "images/4floor_482.png"
+  },
+  {
+    "id": 103,
+    "name": "484",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/4floor_484.png"
+  },
+  {
+    "id": 104,
+    "name": "486",
+    "description": "社会文化服务和旅游系",
+    "keywords": "",
+    "image": "images/4floor_486.png"
+  },
+  {
+    "id": 105,
+    "name": "460, 450, 452, 454, 456, 458, 458а",
+    "description": "历史教室; 阅览室;  计算机教室",
+    "keywords": "458a, 458-а, 458-a",
+    "image": "images/4floor_460.png"
+  },
+  {
+    "id": 106,
+    "name": "女生的洗手间, 四楼",
+    "description": "",
+    "keywords": "",
+    "image": "images/4floor_wcw.png"
+  },
+  {
+    "id": 107,
+    "name": "男生的洗手间, 四楼",
+    "description": "",
+    "keywords": "",
+    "image": "images/4floor_wcm.png"
+  },
+  {
+    "id": 108,
+    "name": "501–509",
+    "description": "乌拉尔联邦大学乌拉尔数学中心；编辑考古学实验室",
+    "keywords": "502, 503, 508",
+    "image": "images/5floor_appendix.png"
+  },
+  {
+    "id": 109,
+    "name": "501",
+    "description": "信息和电信基础设施局",
+    "keywords": "",
+    "image": "images/5floor_501.png"
+  },
+  {
+    "id": 110,
+    "name": "502",
+    "description": "乌拉尔人文大学展览中心",
+    "keywords": "",
+    "image": "images/5floor_appendix.png"
+  },
+  {
+    "id": 111,
+    "name": "503",
+    "description": "编辑考古学实验室",
+    "keywords": "",
+    "image": "images/5floor_appendix.png"
+  },
+  {
+    "id": 112,
+    "name": "505",
+    "description": "信息和电信基础设施局",
+    "keywords": "",
+    "image": "images/5floor_appendix.png"
+  },
+  {
+    "id": 113,
+    "name": "508",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/5floor_appendix.png"
+  },
+  {
+    "id": 114,
+    "name": "507",
+    "description": "多媒体教室",
+    "keywords": "",
+    "image": "images/5floor_507.png"
+  },
+  {
+    "id": 115,
+    "name": "509",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/5floor_509.png"
+  },
+  {
+    "id": 116,
+    "name": "511",
+    "description": "计算机教室; 自学教室",
+    "keywords": "",
+    "image": "images/5floor_.511html"
+  },
+  {
+    "id": 117,
+    "name": "512",
+    "description": "信息和电信基础设施局",
+    "keywords": "",
+    "image": "images/5floor_512.png"
+  },
+  {
+    "id": 118,
+    "name": "513",
+    "description": "以科学院通讯院士、教授伊万诺夫命名的礼堂",
+    "keywords": "",
+    "image": "images/5floor_513.png"
+  },
+  {
+    "id": 119,
+    "name": "513а",
+    "description": "教室",
+    "keywords": "513a, 513-а, 513-a",
+    "image": "images/5floor_513a.png"
+  },
+  {
+    "id": 120,
+    "name": "514",
+    "description": "计算机教室",
+    "keywords": "",
+    "image": "images/5floor_514.png"
+  },
+  {
+    "id": 121,
+    "name": "515",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/5floor_515.png"
+  },
+  {
+    "id": 122,
+    "name": "515а",
+    "description": "运营支持部门",
+    "keywords": "515a, 513-а, 513-a",
+    "image": "images/5floor_515a.png"
+  },
+  {
+    "id": 123,
+    "name": "517",
+    "description": "教室; 设备存放和维护室",
+    "keywords": "",
+    "image": "images/5floor_517.png"
+  },
+  {
+    "id": 124,
+    "name": "522",
+    "description": "企业信息技术培训与创新部",
+    "keywords": "",
+    "image": "images/5floor_522.png"
+  },
+  {
+    "id": 125,
+    "name": "524",
+    "description": "Pearson Vue考试中心",
+    "keywords": "",
+    "image": "images/5floor_524.png"
+  },
+  {
+    "id": 126,
+    "name": "524а",
+    "description": "企业信息技术培训与创新部",
+    "keywords": "524a, 524-а, 524-a",
+    "image": "images/5floor_524.png"
+  },
+  {
+    "id": 127,
+    "name": "526",
+    "description": "计算机教室",
+    "keywords": "",
+    "image": "images/5floor_526.png"
+  },
+  {
+    "id": 128,
+    "name": "528",
+    "description": "计算机教室",
+    "keywords": "",
+    "image": "images/5floor_528.png"
+  },
+  {
+    "id": 129,
+    "name": "530",
+    "description": "技术教育辅助支持部门",
+    "keywords": "",
+    "image": "images/5floor_530.png"
+  },
+  {
+    "id": 130,
+    "name": "532",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/5floor_532.png"
+  },
+  {
+    "id": 131,
+    "name": "534",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/5floor_534.png"
+  },
+  {
+    "id": 132,
+    "name": "538",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/5floor_538.png"
+  },
+  {
+    "id": 133,
+    "name": "540",
+    "description": "外语和教育技术系",
+    "keywords": "",
+    "image": "images/5floor_540.png"
+  },
+  {
+    "id": 134,
+    "name": "542",
+    "description": "外语和教育技术系主任",
+    "keywords": "",
+    "image": "images/5floor_542.png"
+  },
+  {
+    "id": 135,
+    "name": "女生的洗手间, 五楼",
+    "description": "",
+    "keywords": "",
+    "image": "images/5floor_wcw.png"
+  },
+  {
+    "id": 136,
+    "name": "男生的洗手间, 五楼",
+    "description": "",
+    "keywords": "",
+    "image": "images/5floor_wcm.png"
+  },
+  {
+    "id": 137,
+    "name": "601",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_601.png"
+  },
+  {
+    "id": 138,
+    "name": "602",
+    "description": "数学物理系",
+    "keywords": "",
+    "image": "images/6floor_601.png"
+  },
+  {
+    "id": 139,
+    "name": "604",
+    "description": "数学、力学和计算机科学系; 数学、力学和计算机科学系学术工作组织处",
+    "keywords": "数学、力学和计算机科学系院长办公室",
+    "image": "images/6floor_604.png"
+  },
+  {
+    "id": 140,
+    "name": "605",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_605.png"
+  },
+  {
+    "id": 141,
+    "name": "607",
+    "description": "代数与离散数学系",
+    "keywords": "",
+    "image": "images/6floor_607.png"
+  },
+  {
+    "id": 142,
+    "name": "608",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_608.png"
+  },
+  {
+    "id": 143,
+    "name": "609",
+    "description": "代数与离散数学系的科学主任是欧洲科学院院士谢夫林",
+    "keywords": "",
+    "image": "images/6floor_609.png"
+  },
+  {
+    "id": 144,
+    "name": "611",
+    "description": "孔托罗维奇教室",
+    "keywords": "",
+    "image": "images/6floor_611.png"
+  },
+  {
+    "id": 145,
+    "name": "612",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_612.png"
+  },
+  {
+    "id": 146,
+    "name": "613",
+    "description": "计算数学系",
+    "keywords": "",
+    "image": "images/6floor_613.png"
+  },
+  {
+    "id": 147,
+    "name": "614",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_614.png"
+  },
+  {
+    "id": 148,
+    "name": "615",
+    "description": "计算数学系主任",
+    "keywords": "",
+    "image": "images/6floor_615.png"
+  },
+  {
+    "id": 149,
+    "name": "617",
+    "description": "物理方法和质量控制仪器办公室",
+    "keywords": "",
+    "image": "images/6floor_617.png"
+  },
+  {
+    "id": 150,
+    "name": "618",
+    "description": "理论力学系",
+    "keywords": "",
+    "image": "images/6floor_618.png"
+  },
+  {
+    "id": 151,
+    "name": "619",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_619.png"
+  },
+  {
+    "id": 152,
+    "name": "620",
+    "description": "理论力学系主任",
+    "keywords": "",
+    "image": "images/6floor_620.png"
+  },
+  {
+    "id": 153,
+    "name": "621",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_621.png"
+  },
+  {
+    "id": 154,
+    "name": "622",
+    "description": "希曼诺夫教室",
+    "keywords": "",
+    "image": "images/6floor_622.png"
+  },
+  {
+    "id": 155,
+    "name": "622a, 622-а, 622-a",
+    "description": "教室",
+    "keywords": "622a",
+    "image": "images/6floor_622a.png"
+  },
+  {
+    "id": 156,
+    "name": "623",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_623.png"
+  },
+  {
+    "id": 157,
+    "name": "624",
+    "description": "信息学与流程管理系",
+    "keywords": "",
+    "image": "images/6floor_624.png"
+  },
+  {
+    "id": 158,
+    "name": "625",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_625.png"
+  },
+  {
+    "id": 159,
+    "name": "626",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_626.png"
+  },
+  {
+    "id": 160,
+    "name": "628",
+    "description": "教室",
+    "keywords": "",
+    "image": "images/6floor_628.png"
+  },
+  {
+    "id": 161,
+    "name": "631",
+    "description": "区域教育和科学中心",
+    "keywords": "",
+    "image": "images/6floor_631.png"
+  },
+  {
+    "id": 162,
+    "name": "632",
+    "description": "克拉斯索夫斯基教室",
+    "keywords": "",
+    "image": "images/6floor_632.png"
+  },
+  {
+    "id": 163,
+    "name": "632а",
+    "description": "教室",
+    "keywords": "632a, 632-а, 632-a",
+    "image": "images/6floor_632a.png"
+  },
+  {
+    "id": 164,
+    "name": "636",
+    "description": "利用超级计算机技术进行生理学和医学数学建模的实验室",
+    "keywords": "",
+    "image": "images/6floor_636.png"
+  },
+  {
+    "id": 165,
+    "name": "638",
+    "description": "应用分析问题研究实验室",
+    "keywords": "",
+    "image": "images/6floor_638.png"
+  },
+  {
+    "id": 166,
+    "name": "640",
+    "description": "数理经济学系; 数理经济学系主任",
+    "keywords": "",
+    "image": "images/6floor_640.png"
+  },
+  {
+    "id": 167,
+    "name": "女生的洗手间, 六楼",
+    "description": "",
+    "keywords": "",
+    "image": "images/6floor_wcw.png"
+  }
+]
