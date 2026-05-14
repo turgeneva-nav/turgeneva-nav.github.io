@@ -136,7 +136,7 @@ showBtn.addEventListener('click', () => {
         <div class="result-item">
             <div>
                 <h3>${selected1.name}</h3>
-                <p>${selected1.description || 'No description available.'}</p>
+                <p>${selected1.description}</p>
                 ${selected1.image 
                     ? `<img src="${selected1.image}" alt="${selected1.name}" onerror="this.onerror=null; this.src=''; this.alt='Image not found'; this.classList.add('image-error');">` 
                     : '<div class="result-placeholder">📷</div>'}
