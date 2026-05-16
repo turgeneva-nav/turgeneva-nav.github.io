@@ -33,7 +33,7 @@ async function loadData() {
     });
 }
 
-// ---------- Filter & render dropdown with images ----------
+// ---------- Filter & render dropdown ----------
 function filterItems(query) {
     if (!query) return items;
     const q = query.toLowerCase().trim();
